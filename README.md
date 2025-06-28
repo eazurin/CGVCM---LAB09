@@ -1,4 +1,4 @@
-# AI Virtual Painter 4.1
+# AI Virtual Painter
 
 ## Alumnos
 
