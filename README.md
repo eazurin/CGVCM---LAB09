@@ -1,6 +1,6 @@
 # AI Virtual Painter 4.1
 
-## Autores
+## Alumnos
 
 - Azurin Zuñiga Eberth Wilfredo  
 - Canal Mendoza Fernando Rubén
